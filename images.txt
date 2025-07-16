@@ -1,4 +1,5 @@
 openvino/ubuntu20_dev:2022.3.0
 openvino/ubuntu20_runtime:2022.3.0
+docker.m.daocloud.io/cvat/server:v2.40.0
 gcr.io/kubeflow/kubeflow/central-dashboard:v1.10.0 
 library/alpine:3.17
