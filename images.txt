@@ -1,2 +1,3 @@
 docker.m.daocloud.io/cvat/server:v2.40.0
 docker.m.daocloud.io/clickhouse/clickhouse-server:23.11-alpine
+gcr.io/arrikto/kubeflow/oidc-authservice:e236439
