@@ -1,4 +1,1 @@
-docker.m.daocloud.io/cvat/server:v2.40.0
-docker.m.daocloud.io/clickhouse/clickhouse-server:23.11-alpine
-gcr.io/arrikto/kubeflow/oidc-authservice:e236439
-docker.m.daocloud.io/pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtimeme
+nvcr.io/nvidia/nemo:24.05
