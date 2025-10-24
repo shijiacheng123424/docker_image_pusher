@@ -1,1 +1,1 @@
-nvcr.io/nvidia/nemo:24.05
+ghcr.nju.edu.cn/ovg-project/kvcached-dev:latest
