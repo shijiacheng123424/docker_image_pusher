@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/ovg-project/kvcached-dev:latest
+datadoge312/isaacgym:23.01
