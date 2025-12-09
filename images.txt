@@ -1,1 +1,1 @@
-datadoge312/isaacgym:23.01
+gcr.io/ml-pipeline/api-server:2.14.3
