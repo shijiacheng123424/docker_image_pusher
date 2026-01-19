@@ -1,1 +1,1 @@
-gcr.io/ml-pipeline/api-server:2.14.3
+nvcr.io/nvidia/pytorch-peft:25.11-py3
